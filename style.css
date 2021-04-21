@@ -1,0 +1,33 @@
+.link {
+    float: left;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+.link:hover {
+    background-color: aqua;
+}
+
+#sec1 {
+    font-family: 'Yusei Magic', sans-serif;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+body{
+  text-align: center;
+ background:linear-gradient(#b664f5     30%,#E1BEE7 50%,#64a1f5 70%,#90CAF9 100%);
+  
+  font-size:19px
+}
